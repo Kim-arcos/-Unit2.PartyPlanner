@@ -1,4 +1,4 @@
-const BASE_URL = https://fsa-crud-2aa9294fe819.herokuapp.com/api/2308-acc-et-WEB-PT/events
+const BASE_URL = 'https://fsa-crud-2aa9294fe819.herokuapp.com/api/2308-acc-et-WEB-PT/events'
 const mainEl = document.querySelector("main");
 
 async function getEvents () {
